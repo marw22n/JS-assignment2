@@ -1,0 +1,24 @@
+body {
+  background-color: #f05e5e;
+}
+div {
+  text-align: center;
+}
+h1 {
+  padding: 30px;
+  font-size: 80px;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  background-color: #ffffffb4;
+  transition: all 0.5s;
+}
+p {
+  font-size: 25px;
+}
+
+button:hover {
+  background-color: gray;
+}
